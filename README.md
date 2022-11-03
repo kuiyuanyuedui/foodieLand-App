@@ -6,7 +6,7 @@ FoodieLand
 Nodejs + Express + MongoDB + HTML5 + Heroku
 </p>
 
-## deploy on Heroku
+## Deploy on Heroku
 https://sdfsdfsdf11.herokuapp.com/
 
 ## Description
