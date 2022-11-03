@@ -6,8 +6,8 @@ FoodieLand
 Nodejs + Express + MongoDB + HTML5 + Heroku
 </p>
 
-## Authors
-[Weihong Yang](https://github.com/wyang10/foodieland) | [Yuan Wang](https://github.com/yuanwang) 
+## deploy on Heroku
+https://sdfsdfsdf11.herokuapp.com/
 
 ## Description
 - Web Development Project 2 : FoodieLand
